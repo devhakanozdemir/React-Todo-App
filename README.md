@@ -4,7 +4,7 @@ I built react todo app project by using React with function based methods (useEf
 The project published on netlify, demo link is [here](https://eloquent-panda-625fc8.netlify.app/). <br><br>
 
 # Demo GIF
-![](---)
+![](https://github.com/hakanozdemir85/react-todo-app/blob/master/GIF.gif)
 
 
 
