@@ -1,3 +1,14 @@
+# React Todo App
+
+I built react todo app project by using React with function based methods (useEffect, useState) and localstorage protocol.<br><br>
+The project published on netlify, demo link is [here](https://eloquent-panda-625fc8.netlify.app/). <br><br>
+
+# Demo GIF
+![](---)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
